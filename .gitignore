@@ -1,3 +1,10 @@
+# txt files
+*.txt
+
+# Binaries
+check_exceptional
+find_exceptional
+
 # Prerequisites
 *.d
 

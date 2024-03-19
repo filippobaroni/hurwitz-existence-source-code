@@ -1,6 +1,0 @@
-Partitions: 77
-r and s: 0.00962605s
-Secondary partitions: 2869
-Chunk size: 1
-RAM usage: 3
-exceptional data: 0.140996s
